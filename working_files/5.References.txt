@@ -1,0 +1,7 @@
+1. OpenStreetMap - https://mapzen.com/documentation/
+2. MapZen Documentation - https://mapzen.com/documentation/
+3. Python Basic Reference - https://www.tutorialspoint.com/python/index.htm
+4. Python Dictionary Looping - http://stackoverflow.com/questions/10756427/loop-through-all-nested-dictionary-values
+5. maps.google.com.sg - https://www.google.com.sg/maps to verify weather accuracy, validity of address, name
+6. JSON reference - https://docs.python.org/3/library/json.html
+7. XML eTree Reference - https://docs.python.org/3/library/xml.etree.elementtree.html

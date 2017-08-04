@@ -1,0 +1,6 @@
+
+I have decided to work with Singapore.  I live here and it will be fun to work with data that is relatable.  Plus, I will be able to justify correctness and defects of data.  Singapore OSM data is readily available at MapZen Metro Extracts.  Being 302MB uncompressed, it also fulfills the OSM XML file size requirement (at least 50MB uncompressed).
+
+MapZen Link: https://mapzen.com/data/metro-extracts/metro/singapore/
+Wiki Link: https://en.wikipedia.org/wiki/Singapore
+Google Map Link: https://www.google.com.sg/maps/place/Singapore/@1.3459084,103.6851599,11z/data=!3m1!4b1!4m5!3m4!1s0x31da1767b42b8ec9:0x400f7acaedaa420!8m2!3d1.3553794!4d103.8677444
