@@ -1,10 +1,8 @@
-# Udacity Data Analyst NanoDegree - Introduction to Data Wrangling
+# Singapore Open Street Map Data Wrangling
 
 ## Summary
 
-This is the repo for all the scripts from the exercises and quizes for the Introduction to Machine Learning course.  The project is part of the Udacity Data Analyst NanoDegree program.  In the final project folder are the various submissions of the final project.  
-
-_NOTE: This repo doesn't include starter codes from the course.  The starter code is hosted in a different repo at [IntroMachineLearning](https://github.com/chowy1026/IntroMachineLearning)._
+This is the repo for python scripts written for data wrangling of Singapore Open Street map.  There are several versions of reports, stored in the final project folder.  
 
 
 ## Environment Requirements
